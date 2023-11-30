@@ -1,0 +1,6 @@
+framework module Pods_MiniProject {
+  umbrella header "Pods-MiniProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
