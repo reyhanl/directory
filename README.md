@@ -25,11 +25,23 @@ I believe I have completed every feature listen on the stages above.
 
 ## Installation
 
-It is not necessary to run this since I believe I sent the whole project but in case you need to reinstall CocoaPods.
-Step 1
-```sh
-cd insert_directory_of_the_project
-pod install
-```
+## Installation
+This app is created in **XCode version 15.0 beta (15A5160n)**. It might not be possible to run it in lower version of XCode, If that is the case please do let me know. 
 
-After that, do not forget to open the app using .xcworkspace instead of .xcodeproj
+1. Clone or download zip from https://bitbucket.org/lerepertoire/nawatechtest/src/main/
+
+    > `git clone https://github.com/reyhanl/directory.git`
+
+2. go to project directory
+
+    > `cd insert_project_directory_here`
+
+3. go to project directory
+
+    > `pod install`
+
+4. open `TestNawaTech.xcworkspace`
+
+5. run the project
+
+> If you find your chart in the purchase history page to be flat as I expected it to be, please let me know so I can confirm your order. As the previous sentence might suggest, the chart will only count a completed transaction or you can confirm/finish the order yourself by clicking the cell then finish (I add it for testing purpose).
